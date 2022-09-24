@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1639861560 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"client.h"
+	"reservation.h"
+	"date.h"
+	"chambre.h"
+	<conio.h>
+	<windows.h>
+
+1639580539 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\reservation.h
+
+1639857830 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\structure.h
+	<time.h>
+
+1639347701 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\date.h
+	"structure.h"
+
+1639321547 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\date1.h
+	"structure1.h"
+
+1639321501 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\structure1.h
+
+1639321918 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\date1.h
+	"structure1.h"
+
+1639321498 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\reservation1.h
+
+1639321498 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\reservation1.h
+
+1639321501 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\structure1.h
+
+1639834102 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"reservation.h"
+	"structure.h"
+	"client.h"
+	"chambre.h"
+	"main.h"
+
+1639346876 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\date.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"date.h"
+	"structure.h"
+
+1639861195 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\client.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"client.h"
+	"main.h"
+
+1639833524 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\client.h
+	"structure.h"
+
+1639747372 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\chambre.h
+	"structure.h"
+
+1639747967 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\chambre.c
+	<stdio.h>
+	<string.h>
+	"chambre.h"
+	"structure.h"
+
+1639834010 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\main.h
+
+1639834965 source:c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\parking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	"structure.h"
+	"parking.h"
+	"client.h"
+
+1639856860 c:\users\said lahbibi\desktop\ginfo 2024\programmation c\reservation hotel\parking.h
+	<time.h>
+	"structure.h"
+
+1639747967 source:c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\chambre.c
+	<stdio.h>
+	<string.h>
+	"chambre.h"
+	"structure.h"
+
+1639747372 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\chambre.h
+	"structure.h"
+
+1639857830 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\structure.h
+	<time.h>
+
+1639346876 source:c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\date.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"date.h"
+	"structure.h"
+
+1639347701 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\date.h
+	"structure.h"
+
+1639861560 source:c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"client.h"
+	"reservation.h"
+	"date.h"
+	"chambre.h"
+	<conio.h>
+	<windows.h>
+
+1639833524 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\client.h
+	"structure.h"
+
+1639580539 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\reservation.h
+
+1639861724 source:c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\reservation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"reservation.h"
+	"structure.h"
+	"client.h"
+	"chambre.h"
+	"main.h"
+
+1639834010 c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\main.h
+
+1640011104 source:c:\users\allam\desktop\ginfo 2024\programmation c\reservation hotel\client.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"client.h"
+	"main.h"
+
